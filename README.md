@@ -4,4 +4,4 @@ Ancient Worlds
 
 Educational game about prehistoric organisms
 
-Game/WHACK2024/Game.exe to play 👍
+You only need to download the Game/WHACK2024 folder to try. Open Game/WHACK2024/Game.exe to play 👍
