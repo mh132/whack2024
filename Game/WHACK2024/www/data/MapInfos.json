@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":5,"parentId":0,"scrollX":973.1999999999999,"scrollY":527.4},
+{"id":2,"expanded":false,"name":"StartScene1","order":3,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":3,"expanded":true,"name":"CharacterSelect","order":2,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":4,"expanded":false,"name":"StartScene2","order":4,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+null,
+{"id":6,"expanded":false,"name":"TrilobiteInfo","order":1,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":7,"expanded":true,"name":"MAP007","order":6,"parentId":0,"scrollX":816,"scrollY":640}
+]
